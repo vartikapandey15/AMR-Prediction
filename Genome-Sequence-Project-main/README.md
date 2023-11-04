@@ -5,4 +5,4 @@
 #### Worked on the data of 1st COVID-19 Patient found in China
 ### SVM for Genome Sequence Analysis
 #### Worked on the data of cancer patients to understand the genome sequencing
-#### Applied Some NLP Techniqes in order to do genome sequence analysis
+#### Applied Some Xg booster Techniqes in order to do genome sequence analysis
